@@ -1,2 +1,2 @@
 # Stock-analysis
-Using VBA to help make informed finance decisions
+Using VBA to help make informed financial decisions
